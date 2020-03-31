@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AroundTheBlock.Models
 {
-    public class Walks
+    public class Walk
     {
         public int Id { get; set; }
         public DateTime Date { get; set; }
